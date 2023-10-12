@@ -1,4 +1,5 @@
 <div>
+![](https://komarev.com/ghpvc/?username=bkuthu&color=dc143c)
 </div>
 
 # Skills - Technical
