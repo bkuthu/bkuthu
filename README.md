@@ -1,7 +1,7 @@
 <div>
-![](https://komarev.com/ghpvc/?username=bkuthu&color=dc143c)
+<img src="https://komarev.com/ghpvc/?username=bkuthu&color=dc143c" alt="biku-kuthu" />
 </div>
-
+![](https://komarev.com/ghpvc/?username=bkuthu&color=dc143c)
 # Skills - Technical
 
 ![javaScript](https://img.shields.io/badge/javaScript-%23F7DF1E?style=for-the-badge&logo=javaScript&logoColor=white)
