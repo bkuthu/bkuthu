@@ -9,3 +9,4 @@
 ![jQuery](https://img.shields.io/badge/jQuery-%230769AD?style=for-the-badge&logo=jQuery&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4?style=for-the-badge&logo=PHP&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-%2321759B?style=for-the-badge&logo=Wordpress&logoColor=white)
+![nodeJS](https://img.shields.io/badge/nodejs?style=badge)
